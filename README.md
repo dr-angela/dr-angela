@@ -19,15 +19,15 @@ This semester, I am working on:
 
 	•	Web Technologies: Experienced in HTML5, CSS, JavaScript, TypeScript, and Node.js.
 	•	Software Engineering: Focused on foundational concepts, including DFAs, program dependency graphs, and software architecture.
-	•	Assembly Programming: I enjoy applying Assembly language and have a strong grasp of its logical structure, which I find rewarding to work with in practical applications.
+	•	Assembly Programming: I enjoy applying Assembly language and have a good grasp of its logical structure, which I find rewarding to work with in practical applications.
 	•	App Development: Recently gained hands-on experience with Android app development.
 	•	Version Control: Proficient in using GitHub for managing code and collaborating on projects.
 
 🔧 Tools I Use
 
 	•	Development Environments: Primarily Visual Studio Code and IntelliJ IDEA.
-	•	Operating System: macOS on a MacBook Air, with experience configuring development environments and servers.
+	•	Operating System: macOS on a MacBook Air, M1, with experience configuring development environments and servers.
 
 🌱 Areas of Interest
 
-My current interests lie in Information Technology, particularly in Frontend Development and Human-Computer Interaction. I’m especially fascinated by recent advancements in interactive systems, which led me to specialize in this field within my studies.
+My current interests lie particularly in Frontend Development and Human-Computer Interaction. I’m especially fascinated by recent advancements in interactive systems, which led me to specialize in this field within my studies.
